@@ -13,13 +13,14 @@
 ### 👨‍💻 About Me
 
 📍 Based in **Indore, Madhya Pradesh, India**  
-💻   **Software Engineer** with focus on **C++, DSA, JavaScript** & learning **MERN stack** (MongoDB · Express.js · React.js · Node.js)  
-🎯 Strong foundation in **Object-Oriented Programming (OOP)**, **Database Management (SQL)** & **Data Structures & Algorithms (DSA)**  
-🎨 Passionate about building **practical web applications** and management systems for real-world use.  
-🚀 Actively preparing for **IT interviews** (e.g., Accenture), job hunting entry-level roles.  
-⚡ Love **coding challenges**, project development, and improving communication skills.[attached_file:1]
+💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
+🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
+🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
+🚀 Experienced in **frontend architecture, product design, and UI engineering**, with an eye for both **performance and aesthetics**.  
+⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**.
 
 ---
+
 
 ### 🌐 Connect With Me
 
