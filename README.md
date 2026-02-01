@@ -5,7 +5,7 @@
 
 <!-- ✨ Animated Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines=Software%20Engineer+%26+Full-Stack%20Developer+%F0%9F%92%BB;Building%20Web%20Apps+%26+Solving%20Problems+%E2%9C%A8;C%2B%2B%20%7C%20DSA%20%7C%20MERN%20Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines= Software%20Engineer+%26+Full-Stack%20Developer+%F0%9F%92%BB;Building%20Web%20Apps+%26+Solving%20Problems+%E2%9C%A8;C%2B%2B%20%7C%20DSA%20%7C%20MERN%20Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
