@@ -146,4 +146,4 @@ Efficient attendance tracker for organizations.
 ---
 
 ### ⚡ Fun Fact
-> "Code today, conquer tomorrow. Keep grinding! 🚀"[web:11][web:7][attached_file:1]
+> "Code today, conquer tomorrow. Keep grinding! 🚀".
