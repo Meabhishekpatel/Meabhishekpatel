@@ -89,7 +89,7 @@
 ---
 
 #### 📚 Book Store
-[![Repo](https://img.shields.io/badge/GitHub-LMS-181717?style=for-the-badge&logo=github)](https://github.com/Meabhsihekpatel/BookStore)
+[![Repo](https://img.shields.io/badge/GitHub-LMS-181717?style=for-the-badge&logo=github)](https://github.com/Meabhishekpatel/BookStore.git)
 <!-- Add live demo if deployed -->
 
 Complete system for course management, student tracking, and admin controls.
@@ -105,7 +105,7 @@ Complete system for course management, student tracking, and admin controls.
 ---
 
 #### 🏦 Bank Management System
-[![Repo](https://img.shields.io/badge/GitHub-Bank%20Mgmt-181717?style=for-the-badge&logo=github)](https://github.com/Meabhishekpatel/bank-management)
+[![Repo](https://img.shields.io/badge/GitHub-Bank%20Mgmt-181717?style=for-the-badge&logo=github)](https://github.com/Meabhishekpatel/Banking-Management-System.git)
 
 Secure banking app for transactions, accounts, and reports.
 
