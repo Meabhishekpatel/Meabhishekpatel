@@ -89,7 +89,7 @@
 ---
 
 #### 📚 Book Store
-[![Repo](https://img.shields.io/badge/GitHub-LMS-181717?style=for-the-badge&logo=github)](https://github.com/Meabhishekpatel/BookStore.git)
+[![Repo](https://img.shields.io/badge/GitHub-BS-181717?style=for-the-badge&logo=github)](https://github.com/Meabhishekpatel/BookStore.git)
 <!-- Add live demo if deployed -->
 
 Complete system for course management, student tracking, and admin controls.
